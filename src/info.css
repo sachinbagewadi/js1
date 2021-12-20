@@ -1,0 +1,16 @@
+.name {
+    color: yellow;
+    text-align: center;
+    background-color: gray;
+    font-size: large;
+}
+
+.address {
+    color: red;
+    text-align: center;
+    background-color: chartreuse;
+    font-size: 20px;
+}
+.basic{
+    border-bottom: 30px;
+}
